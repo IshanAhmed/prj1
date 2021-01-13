@@ -1,0 +1,25 @@
+body{
+    background-color:blue;
+}
+*{
+    margin:0;
+    padding:0;
+}
+navbar{
+    display: flex;
+}
+.nav-list{
+ width: 50%;
+ background-color: yellow;
+}
+.nav-list{
+
+}
+.nav-list li a{
+
+}
+.rightNav{
+    background-color: wheat;
+    widows: 50%;
+    text-align: right;
+}
